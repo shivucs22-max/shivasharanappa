@@ -1,3 +1,3 @@
 # shivasharanappa
 this is my first git repository 
-author - shiva
+Author - shiva
